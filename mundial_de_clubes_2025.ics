@@ -320,3 +320,12 @@ DTEND;TZID=America/Monterrey:20250623T210000
 SUMMARY:Inter Miami vs Palmeiras
 LOCATION:Estadio Hard Rock, Miami
 END:VEVENT
+
+BEGIN:VEVENT
+UID:match035@fifa2025.com
+DTSTAMP:20240601T000000Z
+DTSTART;TZID=America/Monterrey:20250623T190000
+DTEND;TZID=America/Monterrey:20250623T210000
+SUMMARY:Porto vs Al Ahly
+LOCATION:Estadio MetLife, Nueva York Nueva Jersey
+END:VEVENT
