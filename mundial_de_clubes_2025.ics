@@ -329,3 +329,12 @@ DTEND;TZID=America/Monterrey:20250623T210000
 SUMMARY:Porto vs Al Ahly
 LOCATION:Estadio MetLife, Nueva York Nueva Jersey
 END:VEVENT
+
+BEGIN:VEVENT
+UID:match037@fifa2025.com
+DTSTAMP:20240601T000000Z
+DTSTART;TZID=America/Monterrey:20250625T180000
+DTEND;TZID=America/Monterrey:20250625T200000
+SUMMARY: Urawa Reds vs FC Monterrey
+LOCATION:Estadio Rose Bowl, Los Ángeles
+END:VEVENT
