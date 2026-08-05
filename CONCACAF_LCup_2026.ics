@@ -5,7 +5,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:CONCACAF Leagues Cup 2026
 X-WR-CALDESC:All 62 matches in your local time. Updates automatically.
 X-WR-TIMEZONE:America/Mexico_City
-REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:CLC2026-0@es.leaguescup.com
